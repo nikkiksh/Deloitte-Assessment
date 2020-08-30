@@ -1,0 +1,19 @@
+{
+    "status":200,
+    "data":{
+        "dropDown":{
+            "collection":[
+                "collection1",
+                "collection2"
+            ],
+            "color":[
+                "collection1",
+                "collection2"
+            ],
+            "category":[
+                "collection1",
+                "collection2"
+            ]
+        }
+    }
+}
